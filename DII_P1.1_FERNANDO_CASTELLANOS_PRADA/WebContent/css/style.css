@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.centrar {
+	display:flex;
+	justify-content: center;
+}
+
+.barras {
+	width: 350px;
+	margin: 5px;
+	
+}
+
+#boton {
+	width: 200px;
+	margin: 5px;
+	color: white;
+	background-color:green;
+}
