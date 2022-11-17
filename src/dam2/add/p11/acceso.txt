@@ -1,4 +1,0 @@
-fer:1234
-pepe:1234
-pablo:1234
-Pedro:1234
